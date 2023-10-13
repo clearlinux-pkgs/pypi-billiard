@@ -5,7 +5,7 @@
 #
 Name     : pypi-billiard
 Version  : 4.1.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/b3/9c/c02d3988ddb0e32e974db1d8434616f1503b12fc7087bf18243ccd69a60a/billiard-4.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b3/9c/c02d3988ddb0e32e974db1d8434616f1503b12fc7087bf18243ccd69a60a/billiard-4.1.0.tar.gz
 Summary  : Python multiprocessing fork with improvements and bugfixes
