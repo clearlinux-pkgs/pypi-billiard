@@ -1,5 +1,5 @@
 PKG_NAME := pypi-billiard
-URL = https://files.pythonhosted.org/packages/b3/9c/c02d3988ddb0e32e974db1d8434616f1503b12fc7087bf18243ccd69a60a/billiard-4.1.0.tar.gz
+URL = https://files.pythonhosted.org/packages/09/52/f10d74fd56e73b430c37417658158ad8386202b069b70ff97d945c3ab67a/billiard-4.2.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
